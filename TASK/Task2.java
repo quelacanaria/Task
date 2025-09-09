@@ -9,8 +9,8 @@ public class Task2 {
         String g = "r1d";
         boolean b = true;
         byte n = 0;
-        
-        System.out.println("H"+i+"1"+s+" "+c+n+g+" "+f+" "+b);
+        String output = "H"+i+"1"+s+" "+c+n+g+" "+f+" "+b;
+        System.out.println(output);
     }
     
 }
