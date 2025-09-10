@@ -15,4 +15,4 @@ public class Task4 {
         }else{  
             System.out.println("Not Palindrome"); 
         }
-    }
+    }}
