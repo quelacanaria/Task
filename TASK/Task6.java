@@ -13,7 +13,7 @@ public class Task6 {
     Arrays.sort(numbers);
     for(int x=1; x<numbers.length; x++){
         if(numbers[x]%2==0&&numbers[x]<=236){
-        System.out.println(numbers[x]+", ");
+        System.out.print(numbers[x]+", ");
     }}
     
 }
