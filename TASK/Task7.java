@@ -6,7 +6,7 @@ public class Task7 {
     static int addTwoNum(int a, int b){
         return a+b;
     }
-    static int multiplyTwoNum(int a, int b){
+    static int multiplyTwoNum(int a, int b){ 
         return a*b;
     }
     static int subTwoNum(int a, int b){
@@ -30,5 +30,6 @@ public class Task7 {
         System.out.println("a/b="+t7.divideTwoNum(type[0], type[1]));
       }
 }
+
 
  
