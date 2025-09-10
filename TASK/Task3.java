@@ -5,7 +5,7 @@ public class Task3 {
         String a = "Wow";
         String b = "Wow";
         String c = "!Wow";
-        String d = "Wow!"; 
+        String d = "Wow!";  
 
         boolean b1 = a==b;
         boolean b2 = d.equals(b+"!");
