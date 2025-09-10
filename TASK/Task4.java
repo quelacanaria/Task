@@ -5,7 +5,7 @@ public class Task4 {
         System.out.println("Type any to check if it is a palindrome or not: ");
         Scanner input = new Scanner(System.in);
         String type = input.nextLine();
-        String reverse = "";
+        String reverse = ""; 
         StringBuilder palindrome = new StringBuilder((type.toLowerCase()));
         for(int x=0;x<palindrome.length();x++){
             reverse = palindrome.charAt(x)+reverse;

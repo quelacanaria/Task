@@ -4,7 +4,7 @@ public class Task2 {
     public static void main(String[] args) {
         int i = 31;
         short s = 0;
-        float f = 2.0f;
+        float f = 2.0f; 
         char c = 'w';
         String g = "r1d";
         boolean b = true;

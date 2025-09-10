@@ -23,6 +23,6 @@ class ArithmeticTask {
         System.out.println(result);
         result = result % 7; // result is now 3
         System.out.println(result);
-
+ 
     }
 }

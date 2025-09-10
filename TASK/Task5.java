@@ -7,7 +7,7 @@ public class Task5 {
         int[] numbers = new int[3];
 
         for(int x=0;x<numbers.length;x++){
-            numbers[x] = input.nextInt();
+            numbers[x] = input.nextInt(); 
         }
         Arrays.sort(numbers);
         for(int number: numbers){
