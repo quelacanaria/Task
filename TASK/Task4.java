@@ -12,7 +12,7 @@ public class Task4 {
         }
         if ((palindrome.toString()).equals(reverse)) {
             System.out.println("Palindrome");
-        }else{
+        }else{  
             System.out.println("Not Palindrome");
         }
     }

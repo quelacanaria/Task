@@ -11,7 +11,7 @@ public class Task3 {
         boolean b2 = d.equals(b+"!");
         boolean b3 = !c.equals(a);
 
-        if(b1&&b2&&b3){
+        if(b1&&b2&&b3){   
             System.out.println("Success!");
         }
     }

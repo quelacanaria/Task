@@ -8,7 +8,7 @@ public class Task2 {
         char c = 'w';
         String g = "r1d";
         boolean b = true;
-        byte n = 0;
+        byte n = 0;  
         String output = "H"+i+"1"+s+" "+c+n+g+" "+f+" "+b;
         System.out.println(output);
     }

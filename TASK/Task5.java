@@ -10,7 +10,7 @@ public class Task5 {
             numbers[x] = input.nextInt(); 
         }
         Arrays.sort(numbers);
-        for(int number: numbers){
+        for(int number: numbers){  
             System.out.print(number+" , ");
         }
     }
