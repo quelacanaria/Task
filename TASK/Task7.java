@@ -23,13 +23,13 @@ public class Task7 {
         for(int x=0;x<type.length;x++){
             type[x]=input.nextInt();
         } 
-        Task7 t7 = new Task7();
-        System.out.println("a+b="+t7.addTwoNum(type[0], type[1]));
-        System.out.println("a*b="+t7.multiplyTwoNum((type[0]), type[1]));
-        System.out.println("a-b="+t7.subTwoNum(type[0], type[1]));
-        System.out.println("a/b="+t7.divideTwoNum(type[0], type[1]));
+        
+        System.out.println("a+b="+addTwoNum(type[0], type[1]));
+        System.out.println("a*b="+multiplyTwoNum((type[0]), type[1]));
+        System.out.println("a-b="+subTwoNum(type[0], type[1]));
+        System.out.println("a/b="+divideTwoNum(type[0], type[1]));
       }
 }
 
 
- 
+    
