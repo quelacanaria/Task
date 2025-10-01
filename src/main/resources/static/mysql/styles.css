@@ -1,0 +1,50 @@
+.navbar-toggler:hover,
+.navbar-toggler:focus {
+  background-color: gray; 
+  border-radius: 6px;
+}
+
+.navbar {
+  z-index: 1000;   
+  position: relative;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+.navbar .nav-link {
+  color: rgba(255, 255, 255, 0.7); 
+}
+
+.navbar .nav-link.active,
+.navbar .nav-link:focus,
+.navbar .nav-link:hover {
+  color: #ffffff !important; 
+}
+
+.nav-link{
+        font-size: 20px;
+        color: darkgray;
+    }
+.gg{
+    width: 160px;
+    height: auto;
+    min-width: 100px         ;
+}
+.input-group{
+    height: 40px;
+}
+.background {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;      /* full width */
+  height: 100%;     /* full height */
+  z-index: -1;      /* ✅ put background behind everything */
+}
+.col-md-12{
+  height: auto;
+  border-radius: 10px;
+  padding-bottom: 10px;
+}
+.table-responsive{
+  border-radius: 10px;
+}
+
