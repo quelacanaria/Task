@@ -1,0 +1,9 @@
+1.Admin/user manage users accounts
+2. Add photo and username of account
+3. Add Main account atleast 2% of every transaction
+4. otp request in forgot password and registration
+5. generate account number
+6. oauth
+7. enhance frontend
+8. learn more of backend
+
