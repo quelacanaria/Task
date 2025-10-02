@@ -1,4 +1,4 @@
-package main.java.quelacanaria.model;
+package quelacanaria.model;
 
 
 import java.math.BigDecimal;
@@ -103,7 +103,7 @@ public class Account implements UserDetails{
 
 	public void setAuthorities(Collection<? extends GrantedAuthority> authorities) {
 		this.authorities = authorities;
-	}
+	} 
 
 
 //    public static void main(String[] args) {

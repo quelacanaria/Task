@@ -1,8 +1,8 @@
-package main.java.quelacanaria.controller;
+package quelacanaria.controller;
 
 import org.springframework.web.servlet.mvc.support.RedirectAttributes;
-import com.example.bankapp.model.Account;
-import com.example.bankapp.service.AccountService;
+import quelacanaria.model.Account;
+import quelacanaria.service.AccountService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.context.SecurityContextHolder;
 import org.springframework.stereotype.Controller;

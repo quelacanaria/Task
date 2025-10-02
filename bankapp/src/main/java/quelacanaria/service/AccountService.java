@@ -1,9 +1,9 @@
-package main.java.quelacanaria.service;
+package quelacanaria.service;
 
-import com.example.bankapp.model.Account;
-import com.example.bankapp.model.Transaction;
-import com.example.bankapp.repository.AccountRepository;
-import com.example.bankapp.repository.TransactionRepository;
+import quelacanaria.model.Account;
+import quelacanaria.model.Transaction;
+import quelacanaria.repository.AccountRepository;
+import quelacanaria.repository.TransactionRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;

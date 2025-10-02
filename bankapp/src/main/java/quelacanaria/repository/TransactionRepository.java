@@ -1,9 +1,9 @@
-package main.java.quelacanaria.repository;
+package quelacanaria.repository;
 
 import java.util.List;
 
 import org.springframework.data.jpa.repository.JpaRepository;
-import com.example.bankapp.model.Transaction;
+import quelacanaria.model.Transaction;
 
 
 public interface TransactionRepository extends JpaRepository<Transaction, Long>{

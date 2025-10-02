@@ -1,4 +1,4 @@
-package main.java.quelacanaria.config;
+package quelacanaria.config;
 
 
 import jakarta.servlet.ServletException;
