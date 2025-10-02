@@ -1,4 +1,6 @@
 package main.java.quelacanaria.model;
+
+
 import java.math.BigDecimal;
 import java.util.Collection;
 import java.util.List;
@@ -104,5 +106,13 @@ public class Account implements UserDetails{
 	}
 
 
-
+//    public static void main(String[] args) {
+//        Account user=new Account();
+//                user.setUsername("gg");
+//                user.getPassword();
+//                user.getBalance();
+//                user.getTransaction();
+//        System.out.println(user.getUsername());
+//    }
 }
+
