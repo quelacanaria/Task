@@ -1,4 +1,4 @@
-package main.java.quelacanaria.demo.model;
+package main.java.quelacanaria.model;
 import java.math.BigDecimal;
 import java.util.Collection;
 import java.util.List;
