@@ -1,4 +1,4 @@
-package quelacanaria.demo;
+package quelacanaria;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
