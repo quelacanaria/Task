@@ -11,6 +11,7 @@ public class Task2 {
         byte n = 0;  
         String output = "H"+i+"1"+s+" "+c+n+g+" "+f+" "+b;
         System.out.println(output);
+        
     }
      
 }
