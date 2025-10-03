@@ -1,6 +1,6 @@
 
 
-public class 001_Primitive {
+public class f001_Primitive {
 
     public static void main(String[] args){
         // Primitive = simple value stored directly in memory(stack)
@@ -21,15 +21,13 @@ public class 001_Primitive {
         double price = 42_000_000_000.00;
         char remarks = 'A';
         boolean pass = true;
-        String name = "Sarah Discaya"
-        String luxuryCar = "Bently Bentayga"
+        String name = "Sarah Discaya";
+        String luxuryCar = "Bently Bentayga";
 
         System.out.println(name + "is a former top" + topNumber + "students in their classroom over "
-                                + numberStudents + "students and her grade is " + remarks + "+ " 
-                                + grade + "and because of that her dad gave her a $"+ price 
-                                + "to buy her favorite car " + luxuryCar);
-
-
+                + numberStudents + "students and her grade is " + remarks + "+ "
+                + grade + "and because of that her dad gave her a $"+ price
+                + "to buy her favorite car " + luxuryCar);
 
 
     }
