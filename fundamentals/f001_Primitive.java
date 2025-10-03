@@ -1,8 +1,6 @@
-
-
 public class f001_Primitive {
 
-    public static void main(String[] args){
+    public static void main(String[] args) {
         // Primitive = simple value stored directly in memory(stack)
         // Reference = memory address (stack) that points to the (heap)
 
@@ -26,7 +24,7 @@ public class f001_Primitive {
 
         System.out.println(name + "is a former top" + topNumber + "students in their classroom over "
                 + numberStudents + "students and her grade is " + remarks + "+ "
-                + grade + "and because of that her dad gave her a $"+ price
+                + grade + "and because of that her dad gave her a $" + price
                 + "to buy her favorite car " + luxuryCar);
 
 
