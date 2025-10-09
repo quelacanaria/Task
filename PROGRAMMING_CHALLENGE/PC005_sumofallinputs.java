@@ -1,3 +1,5 @@
+package PROGRAMMING_CHALLENGE;
+
 import java.util.Scanner;
 
 public class PC005_sumofallinputs {
